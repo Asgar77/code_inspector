@@ -1,0 +1,13 @@
+[theme]
+base="light"
+primaryColor="#00ff90"
+backgroundColor="#f7f7fa"
+secondaryBackgroundColor="#fffbe6"
+textColor="#22223b"
+font="sans serif"
+
+[server]
+headless = true
+port = 8501
+
+disableWatchdogWarning = true 
